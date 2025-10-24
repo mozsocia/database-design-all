@@ -1,13 +1,10 @@
-# database-design-all
+### there is three type of database scalling
+
+- read replica
+- table partitioning
+- sharding
 
 
-### Database Design All-in-One Tutorial Series (8 HOURS!)
-https://www.youtube.com/watch?v=h0j0QN2b57M&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID
-
-
-
-### Intro to Database Systems
-
-https://youtube.com/playlist?list=PLXPbT_PYOiRipfX8zrv_9EpnSOpK9P__j
-
-https://www.youtube.com/watch?v=4cWkVbC2bNE
+### if customer wants to use aws from start 
+if customer wants to use aws from start then start with sharding
+- product table in one db , order table in one db, cart table in one db
